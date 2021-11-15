@@ -1,4 +1,4 @@
-# actup-Macs-fuer-die-Life-Sciences
+# Einleitung
 Ein Minikurs zum Studieneinstieg mit einem MacOs Laptop.
 
 Dieser Kurs gibt einen Schnelleinstieg in die Arbeit mit einem MacOS Laptop. Dabei werden die Alltagsanwendungen angesprochen, die das Studium an der ZHAW leichter gestalten. Ein erster Eindruck zum Kurs gewinnst du im Blogbeitrag [MacOS für Life Sciences startklar machen](//dxi.ai/2021/06/01/memn/). 
